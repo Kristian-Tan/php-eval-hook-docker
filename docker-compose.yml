@@ -1,0 +1,5 @@
+services:
+  php-eval-hook:
+    build:
+      context: .
+      dockerfile: Dockerfile
